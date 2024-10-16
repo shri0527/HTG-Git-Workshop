@@ -1,5 +1,5 @@
 print("Take one Deodorant for yourself or stay smelly.")
-# Deodorant 1
+
 # Deodorant 2
 # Deodorant 3
 # Deodorant 4
